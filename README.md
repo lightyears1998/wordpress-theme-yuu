@@ -1,3 +1,3 @@
-# Wordpress Theme Erica
+# Wordpress Theme Yuu
 
-在 @lightyears1998 的生活博客中使用的 Wordpress 主题。
+Wordpress theme used in @lightyears1998's blog.
